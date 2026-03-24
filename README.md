@@ -47,6 +47,7 @@ Problems are added regularly as part of my consistent DSA practice.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/siri-s5/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0207-course-schedule](https://github.com/siri-s5/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/siri-s5/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/siri-s5/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -62,4 +63,12 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0207-course-schedule](https://github.com/siri-s5/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/siri-s5/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/siri-s5/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/siri-s5/DSA/tree/main/0127-word-ladder/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/siri-s5/DSA/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
