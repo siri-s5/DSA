@@ -38,4 +38,20 @@ Problems are added regularly as part of my consistent DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/siri-s5/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/siri-s5/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/siri-s5/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/siri-s5/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/siri-s5/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
