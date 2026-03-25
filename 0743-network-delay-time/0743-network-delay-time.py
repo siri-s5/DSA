@@ -11,9 +11,10 @@ class Solution:
             if time > dist[node]:
                 continue
             for nei, wt in adj[node]:
-                new_time = time + wt
-                if new_time < dist[nei]:
-                    dist[nei] = new_time
-                    heapq.heappush(pq, (new_time, nei))
-        max_time = max(dist.values())
-        return max_time if max_time != float('inf') else -1
+                if time+wt <dist[nei]:
+                    dist[nei]=time+wt
+                    heapq.heappush(pq.(dist[nei],max_time=max(dist[1:])))
+                    if max_time!=float('inf'):
+                        return max_time
+                    else:
+                        return -1
