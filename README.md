@@ -45,6 +45,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/siri-s5/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/siri-s5/DSA/tree/main/0210-course-schedule-ii/) | Medium |
+| [0743-network-delay-time](https://github.com/siri-s5/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/siri-s5/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/siri-s5/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Breadth-First Search
@@ -53,6 +54,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0127-word-ladder](https://github.com/siri-s5/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0207-course-schedule](https://github.com/siri-s5/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/siri-s5/DSA/tree/main/0210-course-schedule-ii/) | Medium |
+| [0743-network-delay-time](https://github.com/siri-s5/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/siri-s5/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/siri-s5/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
@@ -60,6 +62,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/siri-s5/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/siri-s5/DSA/tree/main/0210-course-schedule-ii/) | Medium |
+| [0743-network-delay-time](https://github.com/siri-s5/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/siri-s5/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -86,5 +89,10 @@ Problems are added regularly as part of my consistent DSA practice.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/siri-s5/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/siri-s5/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/siri-s5/DSA/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
