@@ -93,6 +93,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0208-implement-trie-prefix-tree](https://github.com/siri-s5/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/siri-s5/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/siri-s5/DSA/tree/main/0212-word-search-ii/) | Hard |
+| [3474-lexicographically-smallest-generated-string](https://github.com/siri-s5/DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,4 +138,12 @@ Problems are added regularly as part of my consistent DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0212-word-search-ii](https://github.com/siri-s5/DSA/tree/main/0212-word-search-ii/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/siri-s5/DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/siri-s5/DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 <!---LeetCode Topics End-->
