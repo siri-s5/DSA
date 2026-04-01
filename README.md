@@ -34,10 +34,12 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0300-longest-increasing-subsequence](https://github.com/siri-s5/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/siri-s5/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/siri-s5/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2751-robot-collisions](https://github.com/siri-s5/DSA/tree/main/2751-robot-collisions/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/siri-s5/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2751-robot-collisions](https://github.com/siri-s5/DSA/tree/main/2751-robot-collisions/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/siri-s5/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -146,4 +148,12 @@ Problems are added regularly as part of my consistent DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/siri-s5/DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2751-robot-collisions](https://github.com/siri-s5/DSA/tree/main/2751-robot-collisions/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2751-robot-collisions](https://github.com/siri-s5/DSA/tree/main/2751-robot-collisions/) | Hard |
 <!---LeetCode Topics End-->
