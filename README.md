@@ -35,6 +35,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0746-min-cost-climbing-stairs](https://github.com/siri-s5/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/siri-s5/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2751-robot-collisions](https://github.com/siri-s5/DSA/tree/main/2751-robot-collisions/) | Hard |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/siri-s5/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/siri-s5/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | ------- | ------- |
 | [0212-word-search-ii](https://github.com/siri-s5/DSA/tree/main/0212-word-search-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/siri-s5/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/siri-s5/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/siri-s5/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -125,6 +127,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0746-min-cost-climbing-stairs](https://github.com/siri-s5/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siri-s5/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/siri-s5/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/siri-s5/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
