@@ -97,6 +97,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0208-implement-trie-prefix-tree](https://github.com/siri-s5/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/siri-s5/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/siri-s5/DSA/tree/main/0212-word-search-ii/) | Hard |
+| [0657-robot-return-to-origin](https://github.com/siri-s5/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/siri-s5/DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -158,5 +159,6 @@ Problems are added regularly as part of my consistent DSA practice.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/siri-s5/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2751-robot-collisions](https://github.com/siri-s5/DSA/tree/main/2751-robot-collisions/) | Hard |
 <!---LeetCode Topics End-->
