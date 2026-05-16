@@ -109,6 +109,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0211-design-add-and-search-words-data-structure](https://github.com/siri-s5/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/siri-s5/DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/siri-s5/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0392-is-subsequence](https://github.com/siri-s5/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/siri-s5/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/siri-s5/DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Binary Search
@@ -137,6 +138,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | ------- | ------- |
 | [0213-house-robber-ii](https://github.com/siri-s5/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/siri-s5/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0392-is-subsequence](https://github.com/siri-s5/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/siri-s5/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siri-s5/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/siri-s5/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -175,4 +177,8 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0657-robot-return-to-origin](https://github.com/siri-s5/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1929-concatenation-of-array](https://github.com/siri-s5/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2751-robot-collisions](https://github.com/siri-s5/DSA/tree/main/2751-robot-collisions/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/siri-s5/DSA/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
