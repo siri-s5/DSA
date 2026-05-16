@@ -43,6 +43,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/siri-s5/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/siri-s5/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/siri-s5/DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/siri-s5/DSA/tree/main/2751-robot-collisions/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/siri-s5/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -95,6 +96,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0127-word-ladder](https://github.com/siri-s5/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/siri-s5/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/siri-s5/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/siri-s5/DSA/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +104,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0208-implement-trie-prefix-tree](https://github.com/siri-s5/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/siri-s5/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/siri-s5/DSA/tree/main/0212-word-search-ii/) | Hard |
+| [0242-valid-anagram](https://github.com/siri-s5/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/siri-s5/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/siri-s5/DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Binary Search
