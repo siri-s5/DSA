@@ -35,6 +35,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0217-contains-duplicate](https://github.com/siri-s5/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/siri-s5/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/siri-s5/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/siri-s5/DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/siri-s5/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1929-concatenation-of-array](https://github.com/siri-s5/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/siri-s5/DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
