@@ -104,6 +104,7 @@ Problems are added regularly as part of my consistent DSA practice.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/siri-s5/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0127-word-ladder](https://github.com/siri-s5/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/siri-s5/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/siri-s5/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
