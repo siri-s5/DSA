@@ -34,6 +34,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0212-word-search-ii](https://github.com/siri-s5/DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/siri-s5/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/siri-s5/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/siri-s5/DSA/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/siri-s5/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/siri-s5/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/siri-s5/DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -49,6 +50,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0169-majority-element](https://github.com/siri-s5/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/siri-s5/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/siri-s5/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/siri-s5/DSA/tree/main/0268-missing-number/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/siri-s5/DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/siri-s5/DSA/tree/main/2751-robot-collisions/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/siri-s5/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -104,6 +106,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0208-implement-trie-prefix-tree](https://github.com/siri-s5/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/siri-s5/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/siri-s5/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/siri-s5/DSA/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +122,7 @@ Problems are added regularly as part of my consistent DSA practice.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/siri-s5/DSA/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/siri-s5/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/siri-s5/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Union-Find
@@ -193,4 +197,12 @@ Problems are added regularly as part of my consistent DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/siri-s5/DSA/tree/main/0169-majority-element/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/siri-s5/DSA/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/siri-s5/DSA/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
