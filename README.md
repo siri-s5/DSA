@@ -75,6 +75,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0787-cheapest-flights-within-k-stops](https://github.com/siri-s5/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/siri-s5/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/siri-s5/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/siri-s5/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +211,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/siri-s5/DSA/tree/main/0268-missing-number/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/siri-s5/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,4 +220,8 @@ Problems are added regularly as part of my consistent DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/siri-s5/DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/siri-s5/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 <!---LeetCode Topics End-->
