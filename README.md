@@ -202,6 +202,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/siri-s5/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/siri-s5/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,4 +231,8 @@ Problems are added regularly as part of my consistent DSA practice.
 | ------- | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/siri-s5/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/siri-s5/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/siri-s5/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
