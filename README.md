@@ -128,6 +128,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0392-is-subsequence](https://github.com/siri-s5/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/siri-s5/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/siri-s5/DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3612-process-string-with-special-operations-i](https://github.com/siri-s5/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +199,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0657-robot-return-to-origin](https://github.com/siri-s5/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1929-concatenation-of-array](https://github.com/siri-s5/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2751-robot-collisions](https://github.com/siri-s5/DSA/tree/main/2751-robot-collisions/) | Hard |
+| [3612-process-string-with-special-operations-i](https://github.com/siri-s5/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
