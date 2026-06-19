@@ -40,6 +40,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0746-min-cost-climbing-stairs](https://github.com/siri-s5/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/siri-s5/DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/siri-s5/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/siri-s5/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/siri-s5/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/siri-s5/DSA/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/siri-s5/DSA/tree/main/2751-robot-collisions/) | Hard |
@@ -240,4 +241,8 @@ Problems are added regularly as part of my consistent DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/siri-s5/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/siri-s5/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
