@@ -31,6 +31,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/siri-s5/DSA/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/siri-s5/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/siri-s5/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0169-majority-element](https://github.com/siri-s5/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/siri-s5/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0212-word-search-ii](https://github.com/siri-s5/DSA/tree/main/0212-word-search-ii/) | Hard |
@@ -64,6 +65,7 @@ Problems are added regularly as part of my consistent DSA practice.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/siri-s5/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0212-word-search-ii](https://github.com/siri-s5/DSA/tree/main/0212-word-search-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/siri-s5/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/siri-s5/DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -199,6 +201,7 @@ Problems are added regularly as part of my consistent DSA practice.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/siri-s5/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/siri-s5/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1929-concatenation-of-array](https://github.com/siri-s5/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2751-robot-collisions](https://github.com/siri-s5/DSA/tree/main/2751-robot-collisions/) | Hard |
