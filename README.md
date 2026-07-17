@@ -122,6 +122,7 @@ Problems are added regularly as part of my consistent DSA practice.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/siri-s5/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/siri-s5/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/siri-s5/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0127-word-ladder](https://github.com/siri-s5/DSA/tree/main/0127-word-ladder/) | Hard |
@@ -201,6 +202,7 @@ Problems are added regularly as part of my consistent DSA practice.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/siri-s5/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/siri-s5/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/siri-s5/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1929-concatenation-of-array](https://github.com/siri-s5/DSA/tree/main/1929-concatenation-of-array/) | Easy |
@@ -224,6 +226,7 @@ Problems are added regularly as part of my consistent DSA practice.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/siri-s5/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0189-rotate-array](https://github.com/siri-s5/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/siri-s5/DSA/tree/main/0268-missing-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/siri-s5/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
