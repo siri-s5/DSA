@@ -131,6 +131,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0058-length-of-last-word](https://github.com/siri-s5/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0127-word-ladder](https://github.com/siri-s5/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0165-compare-version-numbers](https://github.com/siri-s5/DSA/tree/main/0165-compare-version-numbers/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/siri-s5/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/siri-s5/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/siri-s5/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/siri-s5/DSA/tree/main/0212-word-search-ii/) | Hard |
@@ -233,6 +234,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/siri-s5/DSA/tree/main/0043-multiply-strings/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/siri-s5/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/siri-s5/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/siri-s5/DSA/tree/main/0268-missing-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/siri-s5/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
