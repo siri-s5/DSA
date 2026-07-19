@@ -127,6 +127,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0049-group-anagrams](https://github.com/siri-s5/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/siri-s5/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0127-word-ladder](https://github.com/siri-s5/DSA/tree/main/0127-word-ladder/) | Hard |
+| [0165-compare-version-numbers](https://github.com/siri-s5/DSA/tree/main/0165-compare-version-numbers/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/siri-s5/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/siri-s5/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/siri-s5/DSA/tree/main/0212-word-search-ii/) | Hard |
@@ -213,6 +214,7 @@ Problems are added regularly as part of my consistent DSA practice.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0165-compare-version-numbers](https://github.com/siri-s5/DSA/tree/main/0165-compare-version-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/siri-s5/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0392-is-subsequence](https://github.com/siri-s5/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/siri-s5/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
