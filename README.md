@@ -122,6 +122,7 @@ Problems are added regularly as part of my consistent DSA practice.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/siri-s5/DSA/tree/main/0006-zigzag-conversion/) | Medium |
 | [0043-multiply-strings](https://github.com/siri-s5/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/siri-s5/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/siri-s5/DSA/tree/main/0058-length-of-last-word/) | Easy |
