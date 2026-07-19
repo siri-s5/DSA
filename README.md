@@ -30,6 +30,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/siri-s5/DSA/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/siri-s5/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/siri-s5/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/siri-s5/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0169-majority-element](https://github.com/siri-s5/DSA/tree/main/0169-majority-element/) | Easy |
@@ -65,6 +66,7 @@ Problems are added regularly as part of my consistent DSA practice.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/siri-s5/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0054-spiral-matrix](https://github.com/siri-s5/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0212-word-search-ii](https://github.com/siri-s5/DSA/tree/main/0212-word-search-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/siri-s5/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -112,6 +114,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/siri-s5/DSA/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/siri-s5/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/siri-s5/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0127-word-ladder](https://github.com/siri-s5/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0169-majority-element](https://github.com/siri-s5/DSA/tree/main/0169-majority-element/) | Easy |
