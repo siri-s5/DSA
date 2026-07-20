@@ -35,6 +35,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0054-spiral-matrix](https://github.com/siri-s5/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0169-majority-element](https://github.com/siri-s5/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/siri-s5/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/siri-s5/DSA/tree/main/0204-count-primes/) | Medium |
 | [0212-word-search-ii](https://github.com/siri-s5/DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/siri-s5/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/siri-s5/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -236,6 +237,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0043-multiply-strings](https://github.com/siri-s5/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/siri-s5/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/siri-s5/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/siri-s5/DSA/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/siri-s5/DSA/tree/main/0268-missing-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/siri-s5/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/siri-s5/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -262,4 +264,12 @@ Problems are added regularly as part of my consistent DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/siri-s5/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/siri-s5/DSA/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/siri-s5/DSA/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
