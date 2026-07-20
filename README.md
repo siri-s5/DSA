@@ -33,6 +33,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0036-valid-sudoku](https://github.com/siri-s5/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/siri-s5/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/siri-s5/DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/siri-s5/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/siri-s5/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/siri-s5/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/siri-s5/DSA/tree/main/0204-count-primes/) | Medium |
@@ -118,6 +119,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0036-valid-sudoku](https://github.com/siri-s5/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/siri-s5/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0127-word-ladder](https://github.com/siri-s5/DSA/tree/main/0127-word-ladder/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/siri-s5/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/siri-s5/DSA/tree/main/0169-majority-element/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/siri-s5/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/siri-s5/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -151,6 +153,7 @@ Problems are added regularly as part of my consistent DSA practice.
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/siri-s5/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/siri-s5/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
