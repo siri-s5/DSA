@@ -145,6 +145,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0242-valid-anagram](https://github.com/siri-s5/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/siri-s5/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/siri-s5/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0844-backspace-string-compare](https://github.com/siri-s5/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/siri-s5/DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/siri-s5/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/siri-s5/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -215,6 +216,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/siri-s5/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0735-asteroid-collision](https://github.com/siri-s5/DSA/tree/main/0735-asteroid-collision/) | Medium |
+| [0844-backspace-string-compare](https://github.com/siri-s5/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [2751-robot-collisions](https://github.com/siri-s5/DSA/tree/main/2751-robot-collisions/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -223,6 +225,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0054-spiral-matrix](https://github.com/siri-s5/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/siri-s5/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0735-asteroid-collision](https://github.com/siri-s5/DSA/tree/main/0735-asteroid-collision/) | Medium |
+| [0844-backspace-string-compare](https://github.com/siri-s5/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1929-concatenation-of-array](https://github.com/siri-s5/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2751-robot-collisions](https://github.com/siri-s5/DSA/tree/main/2751-robot-collisions/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/siri-s5/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -233,6 +236,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0165-compare-version-numbers](https://github.com/siri-s5/DSA/tree/main/0165-compare-version-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/siri-s5/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0392-is-subsequence](https://github.com/siri-s5/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0844-backspace-string-compare](https://github.com/siri-s5/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/siri-s5/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
