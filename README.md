@@ -175,6 +175,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | ------- | ------- |
 | [0213-house-robber-ii](https://github.com/siri-s5/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/siri-s5/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0338-counting-bits](https://github.com/siri-s5/DSA/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/siri-s5/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/siri-s5/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siri-s5/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -255,6 +256,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0137-single-number-ii](https://github.com/siri-s5/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/siri-s5/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/siri-s5/DSA/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/siri-s5/DSA/tree/main/0338-counting-bits/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/siri-s5/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
