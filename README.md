@@ -131,6 +131,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/siri-s5/DSA/tree/main/0006-zigzag-conversion/) | Medium |
+| [0020-valid-parentheses](https://github.com/siri-s5/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/siri-s5/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/siri-s5/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/siri-s5/DSA/tree/main/0058-length-of-last-word/) | Easy |
@@ -211,6 +212,7 @@ Problems are added regularly as part of my consistent DSA practice.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/siri-s5/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [2751-robot-collisions](https://github.com/siri-s5/DSA/tree/main/2751-robot-collisions/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
