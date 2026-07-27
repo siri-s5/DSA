@@ -34,6 +34,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | [0049-group-anagrams](https://github.com/siri-s5/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/siri-s5/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/siri-s5/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/siri-s5/DSA/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/siri-s5/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/siri-s5/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/siri-s5/DSA/tree/main/0204-count-primes/) | Medium |
@@ -248,6 +249,7 @@ Problems are added regularly as part of my consistent DSA practice.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/siri-s5/DSA/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/siri-s5/DSA/tree/main/0268-missing-number/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/siri-s5/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Segment Tree
