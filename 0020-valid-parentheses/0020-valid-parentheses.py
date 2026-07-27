@@ -1,18 +1,35 @@
+# class Solution:
+#     def isValid(self, s: str) -> bool:
+#         stack = []
+
+#         for char in s:
+#             if char == "(":
+#                 stack.append(")")
+#             elif char == "{":
+#                 stack.append("}")
+#             elif char == "[":
+#                 stack.append("]")
+
+#             else:
+#                 if len(stack) == 0 or char != stack[-1]:
+#                     return False
+#                 stack.pop()
+
+#         return  len(stack) == 0
+
+
 class Solution:
     def isValid(self, s: str) -> bool:
-        st = []
-
-        for i in range(len(s)):
-            if st:
-                last = st[-1]
-                if self.is_pair(last, s[i]):
-                    st.pop()
-                    continue
-            st.append(s[i])
-        
-        return not st
-    
-    def is_pair(self, last, cur):
-        if last == "(" and cur == ")" or last == "{" and cur == "}" or last == "[" and cur == "]":
-            return True
-        return False
+        stack = []
+        pairs = {
+            ')': '(',
+            '}': '{',
+            ']': '['
+        }
+        for ch in s:
+            if ch in '({[':
+                stack.append(ch)
+            else:
+                if not stack or stack.pop() != pairs[ch]:
+                    return False
+        return len(stack) == 0
