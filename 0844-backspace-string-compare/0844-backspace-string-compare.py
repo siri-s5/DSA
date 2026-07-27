@@ -8,5 +8,5 @@ class Solution:
                         stack.pop()
                 else:
                     stack.append(i)
-            return stack
+            return "".join(stack)
         return si(s)==si(t)
