@@ -232,6 +232,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/siri-s5/DSA/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/siri-s5/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +253,7 @@ Problems are added regularly as part of my consistent DSA practice.
 | ------- | ------- |
 | [0136-single-number](https://github.com/siri-s5/DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/siri-s5/DSA/tree/main/0137-single-number-ii/) | Medium |
+| [0191-number-of-1-bits](https://github.com/siri-s5/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/siri-s5/DSA/tree/main/0268-missing-number/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/siri-s5/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Segment Tree
